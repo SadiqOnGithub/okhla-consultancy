@@ -18,8 +18,8 @@ const contactMethods = [
     icon: Phone,
     title: "Call Us",
     description: "Mon-Fri from 9am to 6pm",
-    value: "+91 91999 46568",
-    href: "tel:+919199946568",
+    value: "+91 956 088 2068",
+    href: "tel:+919560882068",
   },
 ];
 
